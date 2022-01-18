@@ -1,5 +1,5 @@
 #import the dataset
-gender_spouse <- read.csv("~/Dropbox/openIntro/Week 2/gender_spouse.csv")
+gender_spouse <- read.csv("your file address/gender_spouse.csv")
 names(gender_spouse)
 #check the number of students for each gender
 #ggplot from ggplot2
